@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.lk88.co/post/20251030192254.html</loc>
+    <loc>https://blog.lk88.co/post/20240829174200.html</loc>
     
     <lastmod>2025-10-30</lastmod>
     
@@ -11,7 +11,43 @@
   </url>
   
   <url>
-    <loc>https://blog.lk88.co/post/20250930080000.html</loc>
+    <loc>https://blog.lk88.co/post/20251030080000.html</loc>
+    
+    <lastmod>2025-10-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lk88.co/post/20251030080000.html</loc>
+    
+    <lastmod>2025-10-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lk88.co/tags/index.html</loc>
+    
+    <lastmod>2025-10-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lk88.co/categories/index.html</loc>
+    
+    <lastmod>2025-10-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lk88.co/post/20251030192254.html</loc>
     
     <lastmod>2025-10-30</lastmod>
     
@@ -28,15 +64,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://blog.lk88.co/post/20240829184200.html</loc>
-    
-    <lastmod>2024-09-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://blog.lk88.co/</loc>
@@ -48,6 +75,13 @@
   
   <url>
     <loc>https://blog.lk88.co/tags/Teamspeak/</loc>
+    <lastmod>2025-10-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lk88.co/tags/%E5%B0%8F%E7%99%BD%E6%95%99%E5%AD%A6/</loc>
     <lastmod>2025-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -110,6 +144,20 @@
   </url>
   
 
+  
+  <url>
+    <loc>https://blog.lk88.co/categories/Teamspeak/</loc>
+    <lastmod>2025-10-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lk88.co/categories/GitHub%E6%8E%92%E8%A1%8C%E6%A6%9C/</loc>
+    <lastmod>2025-10-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://blog.lk88.co/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/</loc>
