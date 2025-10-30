@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.lk88.co/post/20251030192254.html</loc>
+    
+    <lastmod>2025-10-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.lk88.co/post/20250930080000.html</loc>
     
     <lastmod>2025-10-30</lastmod>
@@ -67,6 +76,34 @@
   
   <url>
     <loc>https://blog.lk88.co/tags/%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2025-10-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lk88.co/tags/Docker/</loc>
+    <lastmod>2025-10-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lk88.co/tags/%E5%AE%B9%E5%99%A8%E5%8C%96/</loc>
+    <lastmod>2025-10-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lk88.co/tags/%E5%AE%9E%E6%88%98/</loc>
+    <lastmod>2025-10-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lk88.co/tags/%E9%83%A8%E7%BD%B2/</loc>
     <lastmod>2025-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
